@@ -1,2 +1,2 @@
-# tecblog
+# TecBlog
 Projeto feito em aula.
